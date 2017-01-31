@@ -2315,7 +2315,7 @@
           },
           "title": "About Me&nbsp;",
           "text": "<p>Giuliana Ramirez is a 16 year old student who currently attends&nbsp;Miami Arts Studio and is enrolled in the Digital Arts/ Multimedia design program. &nbsp;</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"backgroud.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#content1-2m\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -2650,7 +2650,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1286.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2897,7 +2897,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1286.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
