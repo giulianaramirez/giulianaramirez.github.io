@@ -2275,7 +2275,7 @@
             "imageSize": "49",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-2000x1333.jpg",
             "bgColor": "#f6d7f9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2651,7 +2651,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2898,7 +2898,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
