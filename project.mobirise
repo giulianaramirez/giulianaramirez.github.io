@@ -874,22 +874,22 @@
               {
                 "tags": "Awesome",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/7yJsyJYvYeM",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-01-08-07-35.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/2Ez_SYCYzv4",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-01-08-10-34.jpg",
+                "videoUrl": "https://youtu.be/GJ_QhNoAvoo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-01-08-25-52.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/xsY5VygMJyY",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-01-08-23-06.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 1,
@@ -2217,7 +2217,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1287.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2464,7 +2464,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1287.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
