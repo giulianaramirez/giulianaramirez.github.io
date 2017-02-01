@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "animate.html",
+    "currentPage": "index.html",
     "name": "giuliana portfolio",
     "theme": {
       "name": "mobirise3",
@@ -1880,7 +1880,7 @@
             }
           },
           "title": "About Me&nbsp;",
-          "text": "<p>Giuliana Ramirez is a 16 year old student who currently attends&nbsp;Miami Arts Studio and is enrolled in the Digital Arts/ Multimedia design program. &nbsp;</p>",
+          "text": "<p>I am 16 year old student who currently attends&nbsp;Miami Arts Studio and is enrolled in the Digital Arts/ Multimedia design program. &nbsp;</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#msg-box8-2n\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1896,7 +1896,8 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -2080,7 +2081,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>My name is Giuliana Ramirez, i am a High School student who is enrolled in the Technical Production magnet stand. I never found technology to be an intrest until i was in Middle School. I started of as an art student who loved to draw, learn new perspectives of art,  and lerned how to biuld my creative thought and be an independent artist. Along the way, the Technical Production program opened up and i was intrested. The only problem was i knew nothing about computers or how to do digital design, I was clueless. However, that did not stop me from taking a chance, applying, and hoping to get a learning experience. When i got accepted into the program, it was the best thing that has happned to me. Being in thr program opened up my eyes to multiple career paths. Being in this program thought me how to animate, digital design, web creation, photo restoration, and it even taught me some computer hardware. With this being said, i found my path that i will want to take in the future. My goal is to attend a university for Digital Design amd  I hope to become and succeed in the Digital Design filed. I have a passion for using my creativity and making my clients happy with my designs. Along the way, i would like to open up a business in relation to what we will need in the furture,&nbsp;</p>"
+          "text": "<p>My name is Giuliana Ramirez, &nbsp; i am a High School student who is enrolled in the Technical Production magnet stand. I never found technology to be an intrest until i was in Middle School. I started of as an art student who loved to draw, learn new perspectives of art,  and lerned how to biuld my creative thought and be an independent artist. Along the way, the Technical Production program opened up and i was intrested. The only problem was i knew nothing about computers or how to do digital design, I was clueless. However, that did not stop me from taking a chance, applying, and hoping to get a learning experience. When i got accepted into the program, it was the best thing that has happned to me. Being in thr program opened up my eyes to multiple career paths. Being in this program thought me how to animate, digital design, web creation, photo restoration, and it even taught me some computer hardware. With this being said, i found my path that i will want to take in the future. My goal is to attend a university for Digital Design amd  I hope to become and succeed in the Digital Design filed. I have a passion for using my creativity and making my clients happy with my designs. Along the way, i would like to open up a business in relation to what we will need in the furture,&nbsp;</p>"
         },
         {
           "_tags": [
@@ -2217,7 +2218,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1287.png",
+              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1288.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2464,7 +2465,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1287.png",
+              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1288.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
