@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "dreamweaver.html",
+    "currentPage": "animate.html",
     "name": "giuliana portfolio",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 97,
+    "uniqCompNum": 98,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -860,6 +860,49 @@
           "title": "Adobe Animate",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/7yJsyJYvYeM",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-01-08-07-35.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/2Ez_SYCYzv4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-01-08-10-34.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-2p",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_tags": [
@@ -2174,7 +2217,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1286.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2421,7 +2464,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/blog-crown-201x1286.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
