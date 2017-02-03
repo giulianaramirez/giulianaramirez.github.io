@@ -1996,8 +1996,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#faaf40",
-              "border-color": "#faaf40"
+              "background-color": "#b77411",
+              "border-color": "#b77411"
             },
             "H4": {
               "color": "#ffffff"
@@ -2013,13 +2013,13 @@
           "_name": "features4",
           "_anchor": "features4-4",
           "_params": {
-            "iconsBgColor": "#faaf40",
+            "iconsBgColor": "#b77411",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7e9b9f",
+            "bgColor": "#faaf40",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2145,17 +2145,17 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/vector-triangle-background-2000x1334.jpg",
-            "bgColor": "#3d8eb9",
-            "bgColorRadio": false,
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#b8312f",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -2210,7 +2210,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/blog-crown-128x81.png",
+              "src": "@PROJECT_PATH@/assets/images/14-128x92.png",
               "width": 128,
               "active": true,
               "link": "",
