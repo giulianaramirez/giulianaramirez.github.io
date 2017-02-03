@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "adobeillustrator.html",
     "name": "giuliana portfolio",
     "theme": {
       "name": "mobirise3",
@@ -1717,11 +1717,11 @@
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "2",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/508308744-2000x1125.jpg",
             "bgColor": "#ffffff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
@@ -2354,7 +2354,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/geometric-triangles-wallpaper-geometric-triangle-wallpaper-2000x1250.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2663,7 +2663,7 @@
             "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/preview-pink-triangles-2000x1124.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
