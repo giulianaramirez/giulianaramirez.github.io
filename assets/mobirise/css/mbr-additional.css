@@ -419,6 +419,9 @@ h6,
 #msg-box8-1l p {
   color: #fff;
 }
+#footer1-l P {
+  color: #7c7c7c;
+}
 #ext_menu-m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -454,19 +457,19 @@ h6,
 }
 #ext_menu-m .link[aria-expanded="true"],
 #ext_menu-m .dropdown-menu {
-  background: #b3b3b3;
+  background: #a8a8a8;
 }
 #ext_menu-m .nav-dropdown-sm .link:focus,
 #ext_menu-m .nav-dropdown-sm .link:hover,
 #ext_menu-m .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-m .nav-dropdown-sm .dropdown-item:hover {
-  background: #c4c4c4!important;
+  background: #b9b9b9!important;
 }
 #ext_menu-m .navbar,
 #ext_menu-m .nav-dropdown-sm,
 #ext_menu-m .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-m .nav-dropdown-sm .dropdown-menu {
-  background: #cccccc;
+  background: #c1c1c1;
 }
 #ext_menu-m .bg-color.transparent .link {
   color: #ffffff;
@@ -488,6 +491,9 @@ h6,
 #msg-box8-1o .mbr-section-title,
 #msg-box8-1o p {
   color: #fff;
+}
+#footer1-o P {
+  color: #7c7c7c;
 }
 #ext_menu-p .hide-buttons .nav-btn {
   display: none !important;
@@ -559,6 +565,9 @@ h6,
 #msg-box8-1p p {
   color: #fff;
 }
+#footer1-r P {
+  color: #7c7c7c;
+}
 #ext_menu-s .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -628,6 +637,9 @@ h6,
 #msg-box8-1s .mbr-section-title,
 #msg-box8-1s p {
   color: #fff;
+}
+#footer1-u P {
+  color: #7c7c7c;
 }
 #ext_menu-v .hide-buttons .nav-btn {
   display: none !important;
@@ -699,6 +711,9 @@ h6,
 #msg-box8-1t p {
   color: #fff;
 }
+#footer1-x P {
+  color: #7c7c7c;
+}
 #ext_menu-y .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -768,6 +783,9 @@ h6,
 #form1-1z .form-control-label {
   color: #232323;
 }
+#footer1-1x P {
+  color: #7c7c7c;
+}
 #ext_menu-1y .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -834,6 +852,9 @@ h6,
 }
 
 
+#footer1-25 P {
+  color: #7c7c7c;
+}
 #ext_menu-26 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -903,6 +924,9 @@ h6,
 #social-buttons2-2e .mbr-section-title,
 #social-buttons2-2e .btn-social {
   color: #232323;
+}
+#footer1-2b P {
+  color: #7c7c7c;
 }
 #ext_menu-2c .hide-buttons .nav-btn {
   display: none !important;
@@ -1064,6 +1088,9 @@ h6,
 #msg-box8-2l p {
   color: #fff;
 }
+#footer1-2i P {
+  color: #7c7c7c;
+}
 #ext_menu-2j .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1135,6 +1162,9 @@ h6,
 }
 #testimonials3-2g .mbr-author-name {
   color: #ccc;
+}
+#footer1-13 P {
+  color: #7c7c7c;
 }
 #ext_menu-14 .hide-buttons .nav-btn {
   display: none !important;
