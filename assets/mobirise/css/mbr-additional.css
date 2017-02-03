@@ -626,7 +626,10 @@ h6,
   color: #c0a375!important;
 }
 #form1-w .form-control-label {
-  color: #232323;
+  color: #ffffff;
+}
+#form1-w .mbr-section-title {
+  color: #ffffff;
 }
 #menu-l .hide-buttons .nav-btn {
   display: none !important;
@@ -761,7 +764,7 @@ h6,
   color: #fff;
 }
 #gallery3-p LI {
-  color: #000000;
+  color: #ffffff;
 }
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
@@ -829,6 +832,9 @@ h6,
 #msg-box8-q p {
   color: #fff;
 }
+#gallery4-r LI {
+  color: #ffffff;
+}
 #menu-h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -890,4 +896,7 @@ h6,
 #menu-h .link[aria-expanded="true"],
 #menu-h .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#testimonials1-v .mbr-section-title {
+  color: #ffffff;
 }
