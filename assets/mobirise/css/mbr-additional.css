@@ -1025,8 +1025,8 @@ h6,
   color: #bcbcbc;
 }
 #features4-4 .iconbox {
-  background-color: #b77411;
-  border-color: #b77411;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 #features4-4 H4 {
   color: #ffffff;
@@ -1038,6 +1038,9 @@ h6,
 #msg-box8-2n .mbr-section-title,
 #msg-box8-2n p {
   color: #fff;
+}
+#msg-box8-2n .mbr-section-title {
+  color: #ffffff;
 }
 #contacts1-5 STRONG {
   color: #7c7c7c;

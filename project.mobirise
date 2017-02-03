@@ -1996,8 +1996,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#b77411",
-              "border-color": "#b77411"
+              "background-color": "#ffffff",
+              "border-color": "#ffffff"
             },
             "H4": {
               "color": "#ffffff"
@@ -2013,7 +2013,7 @@
           "_name": "features4",
           "_anchor": "features4-4",
           "_params": {
-            "iconsBgColor": "#b77411",
+            "iconsBgColor": "#ffffff",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -2044,7 +2044,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#faaf40"
             }
           },
           "title1": "College Graduate&nbsp;",
@@ -2060,7 +2060,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#faaf40"
             }
           },
           "title2": "Graphic Designer&nbsp;",
@@ -2076,7 +2076,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#faaf40"
             }
           },
           "title3": "Buisness Owner&nbsp;",
@@ -2092,7 +2092,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#faaf40"
             }
           },
           "title4": "Travel",
@@ -2134,6 +2134,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
