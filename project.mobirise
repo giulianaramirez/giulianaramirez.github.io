@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Refrences.html",
+    "currentPage": "index.html",
     "name": "giuliana portfolio",
     "theme": {
       "name": "mobirise3",
@@ -1717,11 +1717,11 @@
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "2",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/508308744-2000x1125.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": false,
+            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
@@ -2019,7 +2019,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#383838",
+            "bgColor": "#7e9b9f",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
