@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -416,7 +418,8 @@ h6,
 }
 #menu-1 .navbar-caption {
   color: #ffffff;
-  font-size: 30px;
+  font-size: 21px;
+  font-family: 'Bitter', serif;
 }
 #menu-1 .navbar-toggler {
   color: #ffffff;
@@ -497,12 +500,14 @@ h6,
 #msg-box8-6 .mbr-section-title {
   color: #232323;
 }
+
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-j .navbar-caption {
   color: #ffffff;
-  font-size: 30px;
+  font-size: 21px;
+  font-family: 'Bitter', serif;
 }
 #menu-j .navbar-toggler {
   color: #ffffff;
@@ -563,12 +568,14 @@ h6,
 #msg-box8-s p {
   color: #fff;
 }
+
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-k .navbar-caption {
   color: #ffffff;
-  font-size: 30px;
+  font-size: 21px;
+  font-family: 'Bitter', serif;
 }
 #menu-k .navbar-toggler {
   color: #ffffff;
@@ -631,12 +638,14 @@ h6,
 #form1-w .mbr-section-title {
   color: #ffffff;
 }
+
 #menu-l .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-l .navbar-caption {
   color: #ffffff;
-  font-size: 30px;
+  font-size: 21px;
+  font-family: 'Bitter', serif;
 }
 #menu-l .navbar-toggler {
   color: #ffffff;
@@ -697,12 +706,14 @@ h6,
 #social-buttons3-x .btn-social {
   color: #fff;
 }
+
 #menu-c .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-c .navbar-caption {
   color: #ffffff;
-  font-size: 30px;
+  font-size: 21px;
+  font-family: 'Bitter', serif;
 }
 #menu-c .navbar-toggler {
   color: #ffffff;
@@ -766,12 +777,14 @@ h6,
 #gallery3-p LI {
   color: #ffffff;
 }
+
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-g .navbar-caption {
   color: #ffffff;
-  font-size: 30px;
+  font-size: 21px;
+  font-family: 'Bitter', serif;
 }
 #menu-g .navbar-toggler {
   color: #ffffff;
@@ -835,12 +848,14 @@ h6,
 #gallery4-r LI {
   color: #ffffff;
 }
+
 #menu-h .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-h .navbar-caption {
   color: #ffffff;
-  font-size: 30px;
+  font-size: 21px;
+  font-family: 'Bitter', serif;
 }
 #menu-h .navbar-toggler {
   color: #ffffff;
