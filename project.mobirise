@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-03_1617",
-    "currentPage": "Animate.html",
+    "currentPage": "illustrator.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1684,6 +1684,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/google-2-2000x2750-800x1100.jpg",
                 "image": "@PROJECT_PATH@/assets/images/google-2-2000x2750.jpg",
                 "caption": "Google Compotition&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tv-3-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tv-3-2000x2750.jpg",
+                "caption": "Google Compotition&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bby-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bby-2000x2750.jpg",
+                "caption": "",
                 "active": true
               }
             ],
@@ -1987,6 +2007,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tp-2-2000x2750-800x1100.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tp-2-2000x2750.jpg",
                 "caption": "Tech.Production Logo",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/horse-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/horse-2000x2750.jpg",
+                "caption": "MAS Mavericks Logo",
                 "active": true
               }
             ],
