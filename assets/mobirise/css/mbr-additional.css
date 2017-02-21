@@ -480,6 +480,14 @@ h6,
 #header1-0 .mbr-section-lead {
   font-size: 48px;
 }
+#msg-box8-24 .mbr-section-title,
+#msg-box8-24 p {
+  color: #fff;
+}
+#header3-25 .mbr-section-title,
+#header3-25 .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts4-15 UL {
   color: #ffffff;
 }
