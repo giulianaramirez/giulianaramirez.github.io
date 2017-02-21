@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 78,
+    "uniqCompNum": 79,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -172,13 +172,33 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#f97352",
-            "showTitle": true,
-            "showText": true,
+            "showTitle": false,
+            "showText": false,
             "showButton": false
           },
-          "title": "*Insert Video Here*",
+          "title": "",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-26",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
