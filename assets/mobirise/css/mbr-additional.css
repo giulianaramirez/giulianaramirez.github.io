@@ -753,6 +753,10 @@ h6,
 #msg-box8-13 .mbr-section-title {
   color: #232323;
 }
+#header3-27 .mbr-section-title,
+#header3-27 .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts4-15 UL {
   color: #ffffff;
 }
@@ -1153,6 +1157,9 @@ h6,
 }
 #testimonials1-v .card-block P {
   color: #565656;
+}
+#testimonials1-v .card-footer > small {
+  color: #ffffff;
 }
 #contacts4-15 UL {
   color: #ffffff;

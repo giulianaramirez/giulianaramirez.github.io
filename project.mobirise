@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 79,
+    "uniqCompNum": 80,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -232,7 +232,7 @@
           },
           "title": "Giuliana Ramirez",
           "text": "~Hello!~",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Come on in!</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Come on in!</a> "
         },
         {
           "_styles": {
@@ -1304,6 +1304,26 @@
           "text1": "My name is Giuliana Ramirez, i am a High School student who is enrolled in the Technical Production magnet stand. I never found technology to be an intrest until i was in Middle School. I started of as an art student who loved to draw, learn new perspectives of art, and lerned how to biuld my creative thought and be an independent artist. Along the way, the Technical Production program opened up and i was intrested. The only problem was i knew nothing about computers or how to do&nbsp;",
           "text2": "<p>digital design, I was clueless. However, that did not stop me from taking a chance, applying, and hoping to get a learning experience. When i got accepted into the program, it was the best thing that has happned to me. Being in thr program opened up my eyes to multiple career paths. Being in this program thought me how to animate, digital design, web creation, photo restoration, and it even taught me some computer hardware. With this being said, i found my path that i will want to take in the&nbsp;</p>",
           "text3": "<p>future. My goal is to attend a university for Digital Design amd I hope to become and succeed in the Digital Design filed. I have a passion for using my creativity and making my clients happy with my designs. Along the way, i would like to open up a business in relation to what we will need in the future,&nbsp;</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-27",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
@@ -2684,6 +2704,9 @@
             },
             ".card-block P": {
               "color": "#565656"
+            },
+            ".card-footer > small": {
+              "color": "#ffffff"
             }
           },
           "testimonial": [
