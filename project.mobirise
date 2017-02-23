@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-03_1617",
-    "currentPage": "Introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -136,8 +136,8 @@
           "_name": "header3",
           "_anchor": "header3-1p",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 1,
+            "paddingTop": "5",
+            "paddingBottom": "1",
             "bgColor": "#fff",
             "showMeta": false
           },
@@ -193,7 +193,7 @@
           "_anchor": "header3-26",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingBottom": "1",
             "bgColor": "#ffffff",
             "showMeta": false
           },
