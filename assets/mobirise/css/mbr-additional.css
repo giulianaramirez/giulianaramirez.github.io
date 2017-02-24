@@ -501,6 +501,13 @@ h6,
 #contacts4-15 STRONG {
   color: #ffffff;
 }
+#social-buttons2-29 .mbr-section-title,
+#social-buttons2-29 .btn-social {
+  color: #232323;
+}
+#social-buttons2-29 .mbr-section-title {
+  color: #ffffff;
+}
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
 }
