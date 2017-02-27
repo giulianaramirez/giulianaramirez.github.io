@@ -6,22 +6,22 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
-        "secondaryColor": "#bfcecb",
+        "primaryColor": "#eb6b56",
+        "secondaryColor": "#eb6b56",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#c0a375",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 82,
+    "uniqCompNum": 84,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -84,7 +84,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#eb6b56!important"
             }
           },
           "_tags": [
@@ -232,7 +232,7 @@
           },
           "title": "Giuliana Ramirez",
           "text": "~Hello!~",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Come on in!</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Come on in!</a> "
         },
         {
           "_styles": {
@@ -419,7 +419,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#eb6b56!important"
             }
           },
           "_tags": [
@@ -659,282 +659,6 @@
         }
       ]
     },
-    "microsofts.html": {
-      "settings": {
-        "title": "Site Builder Title",
-        "meta_descr": "Site Builder Description"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "30px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b4322b"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ce3c35!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#d14841"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-g",
-          "_params": {
-            "bgColor": "#d14841",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Adobe.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ADOBE CREATIVE CLOUD</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">ADOBE PHOTOSHOP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">ADOBE ILLUSTRATOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animate.html\">ADOBE ANIMATE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dreamweaver.html\">ADOBE DREAMWEAVER</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsofts.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MICROSOFT OFFICE&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://giulianaramirez.github.io/docs/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss It 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">RESUME</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CERTIFICATIONS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://giulianaramirez.github.io/docs/Illustrator certification.jpg\" target=\"_blank\">ADOBE ILLUSTRATOR</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"references.html\" aria-expanded=\"false\">REFERENCES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1u",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-q",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/stripes-black-streaks-white-lines-1920x1080-c2-000000-fff0f5-l2-119-238-a-315-f.svg",
-            "bgColor": "#eb6b56",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#2e2e2e",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "MICROSOFT OFFICE",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery4",
-          "_styles": {
-            "LI": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Word",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Powerpoint",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#e9c283",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery4-r",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts4",
-          "_styles": {
-            "UL": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            },
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts4-15",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#b8312f",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<strong>Address</strong><br>13411 SW 14 Terrace<br>Miami,Fl 33184<br><br><br>\n<strong>Contacts</strong><br>\nEmail: gramirez@miamiartsstudio.com<br>\nPhone: +1 (786) 370.1648<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"Adobe.html\" class=\"text-white\">Applications</a></li><li>Credentials&nbsp;</li><li>Social Media&nbsp;</li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "gramirez@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-23",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 Giuliana Ramirez."
-        }
-      ]
-    },
     "Introduction.html": {
       "settings": {
         "title": "Site Generator Title",
@@ -988,7 +712,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#eb6b56!important"
             }
           },
           "_tags": [
@@ -1356,6 +1080,44 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#e9c283",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UCX3SaZsPE0w01NNW4Z98Yqg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YouTube Channel</a>",
+          "title": "Check me out on YouTube!",
+          "text": "View videos about me and some of my work :)"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1471,7 +1233,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#eb6b56!important"
             }
           },
           "_tags": [
@@ -1774,7 +1536,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#eb6b56!important"
             }
           },
           "_tags": [
@@ -2107,7 +1869,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#eb6b56!important"
             }
           },
           "_tags": [
@@ -2380,7 +2142,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#eb6b56!important"
             }
           },
           "_tags": [
