@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-03_1617",
-    "currentPage": "index.html",
+    "currentPage": "Introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -656,7 +656,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#eb6b56!important"
+              "color": "#d14841!important"
             }
           },
           "_tags": [
@@ -723,7 +723,7 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-11",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "29",
             "paddingTop": 0,
             "paddingBottom": 0,
             "parallax": true,
@@ -747,7 +747,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dscf0200-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1400x2522.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3052,6 +3052,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-2m",
           "_params": {
             "imageSize": "39",
@@ -3098,12 +3103,7 @@
           },
           "title": "Engineering Projetcs",
           "text": "My dream is to become a Mechanical Engineer!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "gallery1",
