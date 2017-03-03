@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-03_1617",
-    "currentPage": "Introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -312,7 +312,7 @@
     },
     "123d.html": {
       "settings": {
-        "title": "",
+        "title": "Giuliana Ramirez",
         "meta_descr": "Web Page Creator Description"
       },
       "components": [
@@ -605,7 +605,7 @@
     },
     "Introduction.html": {
       "settings": {
-        "title": "Site Generator Title",
+        "title": "Giuliana Ramirez",
         "meta_descr": "Site Generator Description"
       },
       "components": [
@@ -1079,7 +1079,7 @@
     },
     "illustrator.html": {
       "settings": {
-        "title": "Site Builder Title",
+        "title": "Giuliana Ramirez",
         "meta_descr": "Site Builder Description"
       },
       "components": [
@@ -1382,7 +1382,7 @@
     },
     "photoshop.html": {
       "settings": {
-        "title": "Site Creator Title",
+        "title": "Giuliana Ramirez",
         "meta_descr": "Site Creator Description"
       },
       "components": [
@@ -1664,7 +1664,7 @@
     },
     "Animate.html": {
       "settings": {
-        "title": "Web Builder Title",
+        "title": "Giuliana Ramirez",
         "meta_descr": "Web Builder Description"
       },
       "components": [
@@ -1715,7 +1715,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#eb6b56!important"
+              "color": "#d14841!important"
             }
           },
           "_tags": [
@@ -1937,7 +1937,7 @@
     },
     "Dreamweaver.html": {
       "settings": {
-        "title": "Web Builder Title",
+        "title": "Giuliana Ramirez",
         "meta_descr": "Web Builder Description"
       },
       "components": [
@@ -1988,7 +1988,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#eb6b56!important"
+              "color": "#d14841!important"
             }
           },
           "_tags": [
@@ -2271,7 +2271,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#eb6b56!important"
+              "color": "#d14841!important"
             }
           },
           "_tags": [
@@ -2940,7 +2940,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#eb6b56!important"
+              "color": "#d14841!important"
             }
           },
           "_tags": [
