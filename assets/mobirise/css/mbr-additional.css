@@ -686,6 +686,10 @@ h6,
 #msg-box2-2b .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#header3-2z .mbr-section-title,
+#header3-2z .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts4-15 UL {
   color: #ffffff;
 }
@@ -1222,10 +1226,6 @@ h6,
 #menu-2t .link[aria-expanded="true"],
 #menu-2t .dropdown-item[aria-expanded="true"] {
   color: #d14841!important;
-}
-#header3-2y .mbr-section-title,
-#header3-2y .mbr-section-subtitle {
-  text-align: center;
 }
 #msg-box8-2w .mbr-section-title,
 #msg-box8-2w p {
