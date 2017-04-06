@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 110,
+    "uniqCompNum": 113,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -199,12 +199,66 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-32",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#e9c283",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Intorduction Video",
+          "text": "<p>Get to know a little bit of me :)</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://youtu.be/0PmDo1WGwZA\" data-toolbar=\"-mbrBtnMove\">Check it Out!</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-31",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_inherit": "msg-box5",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box4",
-          "_anchor": "msg-box4-30",
+          "_anchor": "msg-box4-33",
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
@@ -212,7 +266,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#e9c283",
+            "bgColor": "#eb6b56",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -233,8 +287,8 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/0PmDo1WGwZA",
-              "aspectratio": "4:3",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             },
@@ -244,9 +298,9 @@
               "size": 250
             }
           },
-          "title": "A bit of Who I am...",
+          "title": "Imagine Dragons-<br>Competition piece",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/0PmDo1WGwZA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Intoduction Video<br></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/5vA_kUBeW6A\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enjoy!</a>"
         },
         {
           "_styles": {
@@ -258,7 +312,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-31",
+          "_anchor": "header3-34",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
