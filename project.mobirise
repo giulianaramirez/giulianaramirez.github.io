@@ -287,7 +287,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/5vA_kUBeW6A",
+              "src": "https://youtu.be/jxvpqDUJHCQ",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -300,7 +300,7 @@
           },
           "title": "Imagine Dragons-<br>Competition piece",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/5vA_kUBeW6A\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enjoy!</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/jxvpqDUJHCQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enjoy!</a>"
         },
         {
           "_styles": {
