@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-03_1617",
-    "currentPage": "WORK IN PROGRESS.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -347,7 +347,7 @@
             "overlayColor": "#fff",
             "inverse": true,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
           "media": {
@@ -369,7 +369,7 @@
             }
           },
           "title": "A Thousand Million Reasons Video",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "text": "<p>Work in Progress</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/bizg3ZRjAMk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enjoy!</a>"
         },
         {
