@@ -499,14 +499,6 @@ h6,
 #header3-31 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-36 .mbr-section-title,
-#header3-36 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-34 .mbr-section-title,
-#header3-34 .mbr-section-subtitle {
-  text-align: center;
-}
 #social-buttons2-29 .mbr-section-title,
 #social-buttons2-29 .btn-social {
   color: #232323;
@@ -1179,5 +1171,171 @@ h6,
   color: #ffffff;
 }
 #contacts4-2d STRONG {
+  color: #ffffff;
+}
+#menu-37 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-37 .navbar-caption {
+  color: #ffffff;
+  font-size: 30px;
+}
+#menu-37 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-37 .close-icon::before,
+#menu-37 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-37 .link,
+#menu-37 .dropdown-item {
+  color: #ffffff;
+}
+#menu-37 .link {
+  font-size: 0.75rem;
+}
+#menu-37 .dropdown-item,
+#menu-37 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-37 .link:hover,
+#menu-37 .dropdown-item:hover,
+#menu-37 .link:focus,
+#menu-37 .dropdown-item:focus {
+  color: #d14841;
+}
+#menu-37 .link[aria-expanded="true"],
+#menu-37 .dropdown-menu {
+  background: #b4322b;
+}
+#menu-37 .nav-dropdown-sm .link:focus,
+#menu-37 .nav-dropdown-sm .link:hover,
+#menu-37 .nav-dropdown-sm .dropdown-item:focus,
+#menu-37 .nav-dropdown-sm .dropdown-item:hover {
+  background: #ce3c35!important;
+}
+#menu-37 .navbar,
+#menu-37 .nav-dropdown-sm,
+#menu-37 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-37 .nav-dropdown-sm .dropdown-menu {
+  background: #d14841;
+}
+#menu-37 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-37 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-37 .bg-color.transparent.opened .link:hover,
+#menu-37 .bg-color.transparent.opened .link:focus {
+  color: #d14841;
+}
+#menu-37 .link[aria-expanded="true"],
+#menu-37 .dropdown-item[aria-expanded="true"] {
+  color: #d14841!important;
+}
+#header3-3e .mbr-section-title,
+#header3-3e .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box8-3d .mbr-section-title,
+#msg-box8-3d p {
+  color: #fff;
+}
+#header3-3g .mbr-section-title,
+#header3-3g .mbr-section-subtitle {
+  text-align: center;
+}
+#contacts4-38 UL {
+  color: #ffffff;
+}
+#contacts4-38 P {
+  color: #ffffff;
+}
+#contacts4-38 STRONG {
+  color: #ffffff;
+}
+#menu-3a .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3a .navbar-caption {
+  color: #ffffff;
+  font-size: 30px;
+}
+#menu-3a .navbar-toggler {
+  color: #ffffff;
+}
+#menu-3a .close-icon::before,
+#menu-3a .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-3a .link,
+#menu-3a .dropdown-item {
+  color: #ffffff;
+}
+#menu-3a .link {
+  font-size: 0.75rem;
+}
+#menu-3a .dropdown-item,
+#menu-3a .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-3a .link:hover,
+#menu-3a .dropdown-item:hover,
+#menu-3a .link:focus,
+#menu-3a .dropdown-item:focus {
+  color: #d14841;
+}
+#menu-3a .link[aria-expanded="true"],
+#menu-3a .dropdown-menu {
+  background: #b4322b;
+}
+#menu-3a .nav-dropdown-sm .link:focus,
+#menu-3a .nav-dropdown-sm .link:hover,
+#menu-3a .nav-dropdown-sm .dropdown-item:focus,
+#menu-3a .nav-dropdown-sm .dropdown-item:hover {
+  background: #ce3c35!important;
+}
+#menu-3a .navbar,
+#menu-3a .nav-dropdown-sm,
+#menu-3a .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3a .nav-dropdown-sm .dropdown-menu {
+  background: #d14841;
+}
+#menu-3a .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-3a .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3a .bg-color.transparent.opened .link:hover,
+#menu-3a .bg-color.transparent.opened .link:focus {
+  color: #d14841;
+}
+#menu-3a .link[aria-expanded="true"],
+#menu-3a .dropdown-item[aria-expanded="true"] {
+  color: #d14841!important;
+}
+#header3-3l .mbr-section-title,
+#header3-3l .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box8-3j .mbr-section-title,
+#msg-box8-3j p {
+  color: #fff;
+}
+#header3-3h .mbr-section-title,
+#header3-3h .mbr-section-subtitle {
+  text-align: center;
+}
+#contacts4-3b UL {
+  color: #ffffff;
+}
+#contacts4-3b P {
+  color: #ffffff;
+}
+#contacts4-3b STRONG {
   color: #ffffff;
 }
